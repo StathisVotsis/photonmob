@@ -1,0 +1,2 @@
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\photonmob.UWP.csproj;x86
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\photonmob.csproj;neutral
