@@ -22296,19 +22296,19 @@
     "UAP,Version=v10.0.10586": []
   },
   "packageFolders": {
-    "C:\\Users\\s.votsis.CREATIVEMINDS\\.nuget\\packages\\": {}
+    "C:\\Users\\stath\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\photonmob.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\photonmob.UWP.csproj",
       "projectName": "photonmob.UWP",
-      "projectPath": "C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\photonmob.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\project.json",
-      "packagesPath": "C:\\Users\\s.votsis.CREATIVEMINDS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\obj\\",
+      "projectPath": "C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\photonmob.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\project.json",
+      "packagesPath": "C:\\Users\\stath\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "C:\\Users\\s.votsis.CREATIVEMINDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\stath\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "sources": {
@@ -22318,8 +22318,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob\\photonmob.csproj": {
-              "projectPath": "C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob\\photonmob.csproj"
+            "C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob\\photonmob.csproj": {
+              "projectPath": "C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob\\photonmob.csproj"
             }
           }
         }

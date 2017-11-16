@@ -71,3 +71,4 @@ C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\i
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\iPhone\Debug\photonmob.iOS.csproj.CoreCompileInputs.cache
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\iPhone\Debug\photonmob.iOS.exe
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\iPhone\Debug\photonmob.iOS.pdb
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\iPhone\Debug\photonmob.iOS.csprojResolveAssemblyReference.cache
