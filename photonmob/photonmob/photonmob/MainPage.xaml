@@ -8,9 +8,9 @@
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Enter your cloud credentials" Margin="20" FontSize="20"  TextColor="White" HorizontalOptions="CenterAndExpand" />
-            <Entry Placeholder="Username" WidthRequest="200" Margin="10" HorizontalOptions="CenterAndExpand" />
-            <Entry Placeholder="Password" WidthRequest="200"  HorizontalOptions="CenterAndExpand"/>
-            <Button Text="Login" WidthRequest="100" TextColor="Red"  FontSize="20" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BorderColor="White"  BorderRadius = "5" BorderWidth = "2"/>
+            <Entry x:Name="username" Placeholder="Username" IsPassword="False" WidthRequest="200" Margin="10" HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="password" Placeholder="Password" IsPassword="True" WidthRequest="200"  HorizontalOptions="CenterAndExpand"/>
+            <Button Text="Login" Clicked="Button_Clicked"  WidthRequest="100" TextColor="Red"  FontSize="20" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BorderColor="White"  BorderRadius = "5" BorderWidth = "2"/>
             <Image Source="https://i0.wp.com/makezine.com/wp-content/uploads/2015/05/particle.png"  HorizontalOptions="CenterAndExpand" />
             <Label TextColor="Red" HorizontalTextAlignment="End" VerticalOptions="EndAndExpand" FontSize = "10" Text="photonxam - created by S.Votsis" />
         </StackLayout>
