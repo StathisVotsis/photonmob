@@ -20,9 +20,9 @@ namespace photonmob
         {
             var pass1 = username.Text;
             var pass2 = password.Text;
-            LoginCloud(pass1,pass2);
             username.Text = "";
             password.Text = "";
+            LoginCloud(pass1,pass2);                   
         }
 
         async void LoginCloud(string st1, string st2)
@@ -31,12 +31,18 @@ namespace photonmob
             if (loginSuccess)
             {
                 await DisplayAlert("You are loggedin as", st1, "OK");
+                NewPage(st1,st2);
             }
             else
             {
                 await DisplayAlert("Invalid user credentials: ", st1, "OK");
             }
                
+        }
+
+        private void NewPage(string st3, string st4)
+        {
+            Application.Current.MainPage = new SecondPage(st3,st4);
         }
     }
 }

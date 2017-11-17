@@ -55,3 +55,13 @@ C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\ph
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\res\values\styles.xml
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\R.cs.flag
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\uploadflags.txt
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\Particle.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.Android.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Particle.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\photonmob.Android.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\photonmob.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

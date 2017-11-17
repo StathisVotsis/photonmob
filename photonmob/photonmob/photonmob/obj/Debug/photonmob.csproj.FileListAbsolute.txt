@@ -78,3 +78,4 @@ C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug\photonmob.App.xaml.g.cs
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug\photonmob.dll
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug\photonmob.pdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug\photonmob.SecondPage.xaml.g.cs

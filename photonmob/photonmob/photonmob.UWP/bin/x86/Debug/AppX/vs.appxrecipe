@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-16T12:55:34.784</Modified>
+      <Modified>2017-11-17T10:10:20.728</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\photonmob.UWP.exe">
       <PackagePath>entrypoint\photonmob.UWP.exe</PackagePath>
-      <Modified>2017-11-16T12:55:34.272</Modified>
+      <Modified>2017-11-17T10:10:20.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\photonmob.dll">
       <PackagePath>photonmob.dll</PackagePath>
-      <Modified>2017-11-16T12:55:32.265</Modified>
+      <Modified>2017-11-17T10:10:18.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\Particle.dll">
       <PackagePath>Particle.dll</PackagePath>
@@ -525,7 +525,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\photonmob.dll.config">
       <PackagePath>photonmob.dll.config</PackagePath>
-      <Modified>2017-11-16T12:32:26.162</Modified>
+      <Modified>2017-11-17T08:27:19.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -696,11 +696,11 @@
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-16T11:35:46.125</Modified>
+      <Modified>2017-11-17T07:54:39.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Core\photonmob.UWP.exe">
       <PackagePath>photonmob.UWP.exe</PackagePath>
-      <Modified>2017-11-16T12:55:34.781</Modified>
+      <Modified>2017-11-17T10:10:20.724</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
