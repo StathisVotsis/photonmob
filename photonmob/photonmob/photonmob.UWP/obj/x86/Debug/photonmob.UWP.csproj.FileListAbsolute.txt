@@ -446,3 +446,7 @@ C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\ph
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Particle.dll
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Particle.pdb
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Newtonsoft.Json.xml

@@ -217,3 +217,4 @@ C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\ph
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhoneSimulator\Debug\Particle.pdb
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhoneSimulator\Debug\Particle.dll.mdb
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhoneSimulator\Debug\photonmob.dll.mdb

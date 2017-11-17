@@ -7,7 +7,6 @@ C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\i
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\photonmob.pdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\photonmob.dll.config
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\photonmob.dll.mdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll.mdb
@@ -72,3 +71,9 @@ C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\i
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\iPhone\Debug\photonmob.iOS.exe
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\iPhone\Debug\photonmob.iOS.pdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\obj\iPhone\Debug\photonmob.iOS.csprojResolveAssemblyReference.cache
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Particle.dll
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Particle.pdb
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Particle.dll.mdb
+C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
