@@ -349,8 +349,12 @@ C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\ph
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\photonmob.dll
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Particle.dll
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Newtonsoft.Json.dll
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\photonmob.pdb
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\photonmob.dll.config
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Particle.pdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Newtonsoft.Json.xml
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\photonmob.UWP.csprojResolveAssemblyReference.cache
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\App.g.i.cs
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\App.g.cs
@@ -442,7 +446,3 @@ C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\ph
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\obj\x86\Debug\ProjectArchitectures.txt
-C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Particle.dll
-C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Newtonsoft.Json.dll
-C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Particle.pdb
-C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Newtonsoft.Json.xml

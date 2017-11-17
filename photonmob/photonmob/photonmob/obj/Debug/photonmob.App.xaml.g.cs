@@ -11,7 +11,8 @@
 namespace photonmob {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\pho" +
+        "tonmob\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
