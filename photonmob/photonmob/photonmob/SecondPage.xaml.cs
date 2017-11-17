@@ -18,25 +18,28 @@ namespace photonmob
         {
             InitializeComponent();
             //DisplayAlert(st1, st2, "OK");
+
             Load();
-           
-           
+
         }
 
-        async void Load()
+       async void Load()
         {
+            listView.ItemsSource = await GetItemsAsync();
+        }
 
-
-            List<string> items = new List<string>(new[] { "" });
+        public async Task<List<ItemViewModel>> GetItemsAsync()
+        {
             var devices = await ParticleCloud.SharedInstance.GetDevicesAsync();
+            var items = new List<ItemViewModel>();
+            items.Add(new ItemViewModel() { Text = "My devices" });
             foreach (ParticleDevice device in devices)
             {
-             // await DisplayAlert(device.Name.ToString(), "", "OK");
-                items.Add(device.Name.ToString());
+                //await DisplayAlert(device.Name.ToString(), "", "OK");
+                
+                items.Add(new ItemViewModel() { Text = device.Name.ToString() });
             }
-
-            ListView list1 = new ListView();
-            list1.ItemsSource = items;
+            return items;
         }
     }
 }

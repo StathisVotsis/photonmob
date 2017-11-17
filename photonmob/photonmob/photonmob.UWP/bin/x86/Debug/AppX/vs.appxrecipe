@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-17T17:01:56.961</Modified>
+      <Modified>2017-11-17T18:36:53.882</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\photonmob.UWP.exe">
       <PackagePath>entrypoint\photonmob.UWP.exe</PackagePath>
-      <Modified>2017-11-17T17:01:56.251</Modified>
+      <Modified>2017-11-17T18:36:53.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stath\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\photonmob.dll">
       <PackagePath>photonmob.dll</PackagePath>
-      <Modified>2017-11-17T17:01:53.230</Modified>
+      <Modified>2017-11-17T18:36:50.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\Particle.dll">
       <PackagePath>Particle.dll</PackagePath>
@@ -525,7 +525,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\photonmob.dll.config">
       <PackagePath>photonmob.dll.config</PackagePath>
-      <Modified>2017-11-17T17:00:08.194</Modified>
+      <Modified>2017-11-17T18:16:37.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -700,7 +700,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.UWP\bin\x86\Debug\Core\photonmob.UWP.exe">
       <PackagePath>photonmob.UWP.exe</PackagePath>
-      <Modified>2017-11-17T17:01:56.952</Modified>
+      <Modified>2017-11-17T18:36:53.872</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
