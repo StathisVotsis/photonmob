@@ -65,3 +65,6 @@ C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\o
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\photonmob.Android.csprojResolveAssemblyReference.cache
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\photonmob.Android.dll
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\photonmob.Android.pdb

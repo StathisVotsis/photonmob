@@ -79,3 +79,5 @@ C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\ph
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug\photonmob.SecondPage.xaml.g.cs
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug\photonmob.csprojResolveAssemblyReference.cache
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob\obj\Debug\photonmob.ListViewPage1.xaml.g.cs
