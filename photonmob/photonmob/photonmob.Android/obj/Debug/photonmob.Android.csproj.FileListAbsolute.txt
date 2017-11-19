@@ -1,6 +1,9 @@
 /Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.Android/obj/Debug/photonmob.Android.csprojResolveAssemblyReference.cache
 /Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.Android/obj/Debug/photonmob.Android.dll
 /Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.Android/obj/Debug/photonmob.Android.pdb
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\photonmob.Android.csprojResolveAssemblyReference.cache
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\photonmob.Android.dll
+C:\Users\s.votsis.CREATIVEMINDS\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\photonmob.Android.pdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.Android.dll
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.Android.pdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\com.companyname.photonmob.apk
@@ -29,7 +32,6 @@ C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\b
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\Newtonsoft.Json.dll
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.pdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.dll.config
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.dll.mdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\Xamarin.Forms.Core.pdb
@@ -57,11 +59,3 @@ C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\o
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\res\values\styles.xml
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\R.cs.flag
 C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\uploadflags.txt
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\bin\Debug\photonmob.Android.dll.mdb
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Particle.dll.mdb
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\photonmob.Android.dll.mdb
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\photonmob.dll.mdb
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\stath\Desktop\develop\photonmob\photonmob\photonmob\photonmob.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
