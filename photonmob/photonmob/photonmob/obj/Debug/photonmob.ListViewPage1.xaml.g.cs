@@ -11,8 +11,8 @@
 namespace photonmob {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob\\ListViewPa" +
-        "ge1.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\pho" +
+        "tonmob\\ListViewPage1.xaml")]
     public partial class ListViewPage1 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

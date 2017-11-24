@@ -11,8 +11,8 @@
 namespace photonmob {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\stath\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\photonmob\\SecondPage" +
-        ".xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\s.votsis.CREATIVEMINDS\\Desktop\\develop\\photonmob\\photonmob\\photonmob\\pho" +
+        "tonmob\\SecondPage.xaml")]
     public partial class SecondPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
