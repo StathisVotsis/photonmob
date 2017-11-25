@@ -32,6 +32,7 @@ namespace photonmob
             {
                 await DisplayAlert("You are loggedin as", st1, "OK");
                 NewPage(st1,st2);
+                
             }
             else
             {
@@ -42,7 +43,8 @@ namespace photonmob
 
         private void NewPage(string st3, string st4)
         {
-            Application.Current.MainPage = new SecondPage(st3,st4);
+            //Application.Current.MainPage = new SecondPage(st3,st4);
+            Application.Current.MainPage = new ListViewPage1();
         }
     }
 }

@@ -39,6 +39,9 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="ItemViewModel.cs" />
+    <Compile Include="LastPage.xaml.cs">
+      <DependentUpon>LastPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ListViewPage1.xaml.cs">
       <DependentUpon>ListViewPage1.xaml</DependentUpon>
     </Compile>
@@ -94,6 +97,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ListViewPage1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="LastPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

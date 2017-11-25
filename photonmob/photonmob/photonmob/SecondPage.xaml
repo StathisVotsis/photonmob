@@ -12,7 +12,8 @@
                         <StackLayout BackgroundColor="#FAFAD2"
                         Orientation="Vertical">
                             <StackLayout Orientation="Horizontal">
-                                <Label x:Name="textLabel" TextColor="#f35e20" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Grid.Column="1" Text="{Binding Text}"/>
+                                <Label x:Name="textLabel" TextColor="#f35e20" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Grid.Column="1" Text="{Binding Text1}"/>
+
                             </StackLayout>
                         </StackLayout>
                     </ViewCell>

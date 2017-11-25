@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="photonmob.LastPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Control Relay"
+                     FontSize="20"
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="On"
+                HorizontalOptions="Center"
+                     WidthRequest="100"
+                BackgroundColor="Green"
+                Clicked="Button_Clicked"/>
+            <Button Text="Off"
+                HorizontalOptions="Center"
+                     WidthRequest="100"
+                BackgroundColor="Red"    
+                Clicked="Button_Clicked_1"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

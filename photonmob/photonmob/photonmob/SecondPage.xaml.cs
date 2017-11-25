@@ -29,12 +29,13 @@ namespace photonmob
         {
             var devices = await ParticleCloud.SharedInstance.GetDevicesAsync();
             var items = new List<ItemViewModel>();
-            items.Add(new ItemViewModel() { Text = "My devices" });
+            items.Add(new ItemViewModel() { Text1 = "My devices" });
             foreach (ParticleDevice device in devices)
             {
                 //await DisplayAlert(device.Name.ToString(), "", "OK");
                 
-                items.Add(new ItemViewModel() { Text = device.Name.ToString() });
+                items.Add(new ItemViewModel() { Text1 = device.Name.ToString() });
+               
             }
             return items;
         }
@@ -48,6 +49,12 @@ namespace photonmob
             DisplayAlert("Item Selected", e.SelectedItem.ToString(), "ok");
         }
 
+       public class ItemViewModel
+        {
+            public string Text1 { get; set; }
+        }
+
         
+
     }
 }

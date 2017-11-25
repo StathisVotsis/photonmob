@@ -4,13 +4,13 @@
              x:Class="photonmob.ListViewPage1">
   <ListView x:Name="MyListView"
             ItemsSource="{Binding Items}"
-            ItemTapped="Handle_ItemTapped"
+            ItemSelected="Handle_ItemTapped"
             CachingStrategy="RecycleElement">
             
     <!--Built in Cells-->
     <ListView.ItemTemplate>
         <DataTemplate>
-            <TextCell Text="{Binding .}" />
+                <TextCell  TextColor="#f35e20" Text="{Binding .}" />
         </DataTemplate>
     </ListView.ItemTemplate>
     
