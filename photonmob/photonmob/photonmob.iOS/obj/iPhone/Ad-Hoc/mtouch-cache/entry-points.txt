@@ -1,0 +1,26 @@
+Function=xamarin_timezone_get_data
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/stathisvotsis/Desktop/xamarin/photonmob/photonmob/photonmob/photonmob.iOS/obj/iPhone/Ad-Hoc/mtouch-cache/32/Link/System.dll

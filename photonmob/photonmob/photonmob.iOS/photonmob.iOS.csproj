@@ -27,6 +27,7 @@
     <MtouchArch>i386, x86_64</MtouchArch>
     <MtouchLink>None</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>none</DebugType>
@@ -72,8 +73,8 @@
     <ConsolePause>False</ConsolePause>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <BuildIpa>True</BuildIpa>
-    <CodesignProvision>Automatic:AdHoc</CodesignProvision>
-    <CodesignKey>iPhone Distribution</CodesignKey>
+    <CodesignProvision></CodesignProvision>
+    <CodesignKey>iPhone Developer: stathisvotsis@gmail.com (RUW2Z6LSGL)</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
@@ -136,7 +137,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\photonmob\photonmob.csproj">
-      <Project>{7eb17499-313a-42bf-accd-2278ca121b81}</Project>
+      <Project>{6F5BCB56-E1BC-42E1-B568-F696198AEE6B}</Project>
       <Name>photonmob</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B60EDCBF-6E79-4417-8FFA-7B85ABACFF00}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="photonmob/photonmob.iOS/Info.plist">
+    <Files>
+      <File FileName="photonmob/photonmob.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.photonmob.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.photonmob.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
